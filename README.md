@@ -1,3 +1,5 @@
+![Number Guessing Game Screenshot](IMG_20260113_092851.jpg)
+
 # Number Guessing Game
 
 A simple JavaScript number guessing game that generates a random number and provides feedback until the correct number is guessed.
